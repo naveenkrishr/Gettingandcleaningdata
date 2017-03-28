@@ -1,4 +1,4 @@
-###Getting and Cleaning Data Project
+### Getting and Cleaning Data Project
 
 The following steps are perfomed to download and cleanse the data 
 
